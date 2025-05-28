@@ -1,4 +1,4 @@
-# Programare-web-avansata
+# Portal web rețete
 
   Acest proiect conține un portal pentru rețete. Pagina principală arată toate postările care există pe website. Postările sunt compuse din: titlu, conținut și categorie, introduse de utilizator. Utilizatorii pot să vizioneze orice postare, dar pentru a posta rețete, trebuie să se înregistreze pe website.
   
